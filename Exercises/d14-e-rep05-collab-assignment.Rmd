@@ -4,7 +4,7 @@ author: Zachary del Rosario
 date: 2020-07-20
 output: github_document
 time: 60
-reading: 0
+reading: 0  
 ---
 
 *Purpose*: Git and GitHub are extremely useful for collaboration, but they take
